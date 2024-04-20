@@ -1,4 +1,7 @@
 <div align="center">
+  
+<!-- info -->
+### :wave: Welcome!
 
 <h1> Hi <h1>
 
