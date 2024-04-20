@@ -2,8 +2,8 @@
 
 <h1> Hi <h1>
 
-<p style="font-size: 8px;">I'm a junior Backend Developer.<br>
-If you have any questions, please feel free to contact me by my email: <a href="mailto:kimsunfang@gmail.com">kimsunfang@gmail.com</a></p>
+<h3>I'm a junior Backend Developer.<br>
+If you have any questions, please feel free to contact me by my email: <a href="mailto:kimsunfang@gmail.com">kimsunfang@gmail.com</a></h3>
 
 ### Languages
 <a href="https://github.com/search?q=user%3Ayour-username+language%3Ajava"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
