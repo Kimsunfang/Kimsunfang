@@ -2,8 +2,8 @@
 
 <h1> Hi <h1>
 
-I'm junior Backend Developer.
-If you have any questions, please feel free to contact me by my email : kimsunfang@gmail.com
+<p style="font-size: 16px;">I'm a junior Backend Developer.<br>
+If you have any questions, please feel free to contact me by my email: <a href="mailto:kimsunfang@gmail.com">kimsunfang@gmail.com</a></p>
 
 <div align="center">
 
